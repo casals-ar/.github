@@ -10,7 +10,7 @@
 
 <br>
 
-<h1 align="center"><a href="https://casals.ar">Repositories</a></h1>
+<h1 align="center"><a href="https://github.com/orgs/casals-ar/repositories">Repositories</a></h1>
 
 <p align="center">
   <a href="https://proxy.casals.ar">
