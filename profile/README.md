@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://casals.ar">
+  <a href="https://proxy.casals.ar">
     <img src="https://img.shields.io/badge/proxy.casals.ar-blue">
   </a>
 </p>
