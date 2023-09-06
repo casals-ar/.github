@@ -6,6 +6,6 @@
 
 <h1 align="center"><a href="https://casals.ar">CASALS</a></h1>
 
-### <p align="center">A web for public projects.</p>
+### <p align="center">Unleashing Open Source</p>
 
 <br>
