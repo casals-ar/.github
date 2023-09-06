@@ -9,3 +9,9 @@
 ### <p align="center">Unleashing Open Source</p>
 
 <br>
+
+<p align="center">
+  <a href="https://casals.ar">
+    <img src="https://img.shields.io/badge/proxy.casals.ar-blue">
+  </a>
+</p>
